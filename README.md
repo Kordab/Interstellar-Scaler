@@ -1,4 +1,4 @@
 Interstellar-Scaler
 ===================
 
-a android-app idea from Michiel van Loon & Eric Cornelissen
+an android-app by Michiel van Loon & Eric Cornelissen
