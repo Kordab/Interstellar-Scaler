@@ -7,7 +7,7 @@
         android:layout_height="wrap_content"
         android:text="@string/titleNeptune"
         android:textSize="40dp"
-        android:id="@+id/titelNeptune"
+        android:id="@+id/titleNeptune"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
