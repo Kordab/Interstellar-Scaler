@@ -7,7 +7,7 @@
         android:layout_height="wrap_content"
         android:text="@string/titleMars"
         android:textSize="40dp"
-        android:id="@+id/titelMars"
+        android:id="@+id/titleMars"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
