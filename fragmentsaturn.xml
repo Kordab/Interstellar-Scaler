@@ -7,7 +7,7 @@
         android:layout_height="wrap_content"
         android:text="@string/titleSaturn"
         android:textSize="40dp"
-        android:id="@+id/titelSaturn"
+        android:id="@+id/titleSaturn"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
